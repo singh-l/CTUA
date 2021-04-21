@@ -8,4 +8,4 @@
 <kbd><img src="https://miro.medium.com/max/852/1*28XVtq2lOjOmZhcSgu1NmQ.png" width = 900></kbd>
 
 ### Clustering:
-<kbd><img src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/01/17162345/clustering-algorithms-in-Machine-Learning.jpg" width = 900></kbd>
+<kbd><img src="https://www.vertica.com/wp-content/uploads/2019/10/Data_Clustering_269630632-2000px.jpg" width = 900></kbd>
